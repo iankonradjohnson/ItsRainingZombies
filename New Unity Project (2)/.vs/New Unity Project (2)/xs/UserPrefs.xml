@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{68935561-146A-092C-1CE2-388EF65D57EF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyAssets/Scripts/Shoot.cs">
+    <Files>
+      <File FileName="Assets/MyAssets/Scripts/Exit.cs" Line="5" Column="15" IsPinned="True" />
+      <File FileName="Assets/Oculus/VR/Scripts/OVRInput.cs" />
+      <File FileName="Assets/Oculus/VR/Editor/OVRLint.cs" />
+      <File FileName="Assets/MyAssets/Scripts/ZombieController.cs" />
+      <File FileName="Assets/MyAssets/Scripts/DistanceAudio.cs" />
+      <File FileName="Assets/MyAssets/Scripts/Restart.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" />
+      <File FileName="Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabbable.cs" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/DistanceGrabber.cs" />
+      <File FileName="Assets/Oculus/SampleFramework/Core/DistanceGrab/Scripts/GrabManager.cs" />
+      <File FileName="Assets/Nokobot/ModernGuns_Handgun/Demo Assets/SimpleShoot.cs" />
+      <File FileName="Assets/MyAssets/Scripts/Shoot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (2)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MyAssets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Shoot.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Nokobot" expanded="True">
+                <Node name="ModernGuns_Handgun" expanded="True">
+                  <Node name="Demo Assets" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Oculus" expanded="True">
+                <Node name="SampleFramework" expanded="True">
+                  <Node name="Core" expanded="True">
+                    <Node name="DistanceGrab" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+                <Node name="VR" expanded="True">
+                  <Node name="Editor" expanded="True" />
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Util" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2e9a6554-c38d-428e-9e7f-b9c73a1bc924" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
