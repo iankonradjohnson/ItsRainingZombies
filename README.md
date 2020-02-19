@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=1pNojeF_i6M&list=UUb5bnUbLVzp4pNbqfY-IE9Q&index=
 Music source: 
 https://www.youtube.com/watch?v=-zf5eO3dLpA
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/Screen Shot 2020-02-18 at 7.00.09 PM.png?raw=true "Optional Title")
