@@ -10,4 +10,4 @@ https://www.youtube.com/watch?v=1pNojeF_i6M&list=UUb5bnUbLVzp4pNbqfY-IE9Q&index=
 Music source: 
 https://www.youtube.com/watch?v=-zf5eO3dLpA
 
-![Alt text](https://github.com/iankonradjohnson/ItsRainingZombies/blob/master/Screen%20Shot%202020-02-18%20at%207.00.09%20PM.png?raw=true "Optional Title")
+![DEMO](zombies.gif)
